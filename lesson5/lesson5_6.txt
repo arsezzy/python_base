@@ -1,0 +1,3 @@
+Physics 100(lection) 50(practice) 10(lab) 
+Literature 100(lection) - -
+Informatics 20(lection) - 30(lab)
