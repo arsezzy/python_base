@@ -1,0 +1,5 @@
+Black 50000
+Brown 10000
+Green 70000
+Smith 20000
+Konor 15000
